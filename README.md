@@ -29,7 +29,7 @@ Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is schedu
 ## To include/exclude patches or patch other apps
 
  * Star the repo :eyes:
- * Use the repo as a [template](https://github.com/new?template_name=revanced-magisk-module&template_owner=borfei)
+ * Use the repo as a [template](https://github.com/new?template_name=revanced-magisk-module&template_owner=j-hc)
  * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/)
  * Run the build [workflow](../../actions/workflows/build.yml)
  * Grab your modules and APKs from [releases](../../releases)
@@ -44,7 +44,7 @@ bash <(curl -sSf https://raw.githubusercontent.com/borfei/revanced-magisk-module
 
 ### On Desktop
 ```console
-$ git clone https://github.com/j-hc/revanced-magisk-module
+$ git clone https://github.com/borfei/revanced-magisk-module.git
 $ cd revanced-magisk-module
 $ ./build.sh
 ```
