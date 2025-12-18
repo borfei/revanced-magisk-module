@@ -1,6 +1,6 @@
 {
-  "version": "v9.0.76.1115 (patches 5.46.0)",
-  "versionCode": 6,
-  "zipUrl": "https://github.com/borfei/revanced-magisk-module/releases/download/6/spotify-revanced-magisk-v9.0.76.1115-all.zip",
+  "version": "v9.0.76.1115 (patches 5.47.0)",
+  "versionCode": 7,
+  "zipUrl": "https://github.com/borfei/revanced-magisk-module/releases/download/7/spotify-revanced-magisk-v9.0.76.1115-all.zip",
   "changelog": "https://raw.githubusercontent.com/borfei/revanced-magisk-module/update/build.md"
 }

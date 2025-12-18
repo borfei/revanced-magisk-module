@@ -1,6 +1,6 @@
 {
-  "version": "v36.5.4 (patches 5.46.0)",
-  "versionCode": 6,
-  "zipUrl": "https://github.com/borfei/revanced-magisk-module/releases/download/6/tiktok-revanced-magisk-v36.5.4-all.zip",
+  "version": "v36.5.4 (patches 5.47.0)",
+  "versionCode": 7,
+  "zipUrl": "https://github.com/borfei/revanced-magisk-module/releases/download/7/tiktok-revanced-magisk-v36.5.4-all.zip",
   "changelog": "https://raw.githubusercontent.com/borfei/revanced-magisk-module/update/build.md"
 }
